@@ -1,0 +1,25 @@
+{
+  "name": "readme_generator",
+  "version": "1.0.0",
+  "description": "Builds a readme using a template",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Otterpop7/Professional-README-Generator.git"
+  },
+  "author": "Jordan Otterson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Otterpop7/Professional-README-Generator/issues"
+  },
+  "homepage": "https://github.com/Otterpop7/Professional-README-Generator#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^8.2.2",
+    "prompts": "^2.4.2",
+    "util": "^0.12.4"
+  }
+}
