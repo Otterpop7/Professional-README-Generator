@@ -44,5 +44,3 @@ Test it in node.js terminal
 
 For any questions about the application refer to my Github: [Otterpop7](https://github.com/Otterpop7)
 Or contact me by email: Jordanotterson7@gmail.com
-
-![demo](/assets/Tutorial.mp4)
